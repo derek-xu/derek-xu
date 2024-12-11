@@ -14,8 +14,7 @@
 ---
 
 ### 📫 Let's Connect
-- **Email**: d27xu@uwaterloo.ca
-<a href="https://www.linkedin.com/in/derek-xu-6385401a6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="derek-xu-6385401a6" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/derek-xu-6385401a6/" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="derek-xu-6385401a6" height="30" width="40" /></a>
 </p>
 
 
