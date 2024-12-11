@@ -10,7 +10,7 @@
 - **Tools**: Git, Docker, Linux
 
 ---
-
+<p align="center"><a href=#><img src="contributions.svg"></a> </p>
 ---
 
 ### 📫 Let's Connect
