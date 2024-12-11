@@ -10,15 +10,7 @@
 - **Tools**: Git, Docker, Linux
 
 ---
-
-### 🌟 Projects
-- [NHL Predictions](https://github.com/yourusername/nhl-predictions): Machine learning model for predicting NHL outcomes.
-- [Horoscope App](https://github.com/yourusername/horoscope-app): Fun app for random horoscopes.
-
----
-
-### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+<a href="https://linkedin.com/in/mindy-chen-a689b4260" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mindy-chen-a689b4260" height="30" width="40" /></a>
 
 ---
 
