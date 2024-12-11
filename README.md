@@ -10,13 +10,14 @@
 - **Tools**: Git, Docker, Linux
 
 ---
-<a href="https://linkedin.com/in/mindy-chen-a689b4260" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mindy-chen-a689b4260" height="30" width="40" /></a>
 
 ---
 
 ### 📫 Let's Connect
-- **Email**: johndoe@example.com
-- **LinkedIn**: [John Doe](https://linkedin.com/in/johndoe)
+- **Email**: d27xu@uwaterloo.ca
+<p align="center">
+<a href="https://www.linkedin.com/in/derek-xu-6385401a6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="derek-xu-6385401a6" height="30" width="40" /></a>
+</p>
 
 
 <!--
