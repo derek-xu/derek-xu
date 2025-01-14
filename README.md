@@ -5,8 +5,8 @@
 ---
 
 ### 🛠 Skills
-- **Languages**: Python, Java, C++
-- **Frameworks**: Flask, Django
+- **Languages**: C++, Python, Java
+- **Frameworks**: Flask, Django, PyTorch, TensorFlow
 - **Tools**: Git, Docker, Linux
 
 ---
