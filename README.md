@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Derek
 
-🎓 Third-year Computer Science student | 💻 Open-source Contributor | 📊 Machine Learning Enthusiast
+🎓 Third-year Computer Science student |  📊 Machine Learning Enthusiast
 
 ---
 
