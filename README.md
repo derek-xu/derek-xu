@@ -9,8 +9,10 @@
 - **Frameworks**: Flask, Django, PyTorch, TensorFlow, Svelte, React
 - **Tools**: Git, Docker, Linux, AWS 
 
+<!--
 ---
 <p align="center"><a href=#><img src="contributions.svg"></a> </p>
+-->
 ---
 
 ### 📫 Let's Connect
