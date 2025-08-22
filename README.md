@@ -15,7 +15,7 @@
 -->
 ---
 
-### 📫 Let's Connect
+### Let's Connect
 <a href="https://www.linkedin.com/in/derek-xu-6385401a6/" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="derek-xu-6385401a6" height="30" width="40" /></a>
 </p>
 
@@ -25,6 +25,7 @@
 
 Here are some ideas to get you started:
 
+- 📫 Let's connect
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
