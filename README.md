@@ -5,9 +5,9 @@
 ---
 
 ### 🛠 Skills
-- **Languages**: C++, Python, Java
-- **Frameworks**: Flask, Django, PyTorch, TensorFlow
-- **Tools**: Git, Docker, Linux
+- **Languages**: C++, Python, TypeScript, JavaScript, Ruby on Rails
+- **Frameworks**: Flask, Django, PyTorch, TensorFlow, Svelte, React
+- **Tools**: Git, Docker, Linux, AWS 
 
 ---
 <p align="center"><a href=#><img src="contributions.svg"></a> </p>
