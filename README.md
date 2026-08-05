@@ -1,11 +1,11 @@
 ## Hi there 👋, I'm Derek
 
-🎓 Third-year Computer Science student |  📊 Machine Learning Enthusiast
+🎓 Fourth-year Computer Science student |  📊 Machine Learning Enthusiast
 
 ---
 
 ### 🛠 Skills
-- **Languages**: C++, Python, TypeScript, JavaScript, Ruby on Rails
+- **Languages**: Python, TypeScript, C++, Ruby on Rails
 - **Frameworks**: Flask, Django, PyTorch, TensorFlow, Svelte, React
 - **Tools**: Git, Docker, Linux, AWS 
 
