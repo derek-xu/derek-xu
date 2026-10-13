@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Derek
 
-🎓 Fourth-year Computer Science student |  📊 Machine Learning Enthusiast
+🎓 Fourth-year Computer Science student @ University of Waterloo |  📊 Machine Learning Enthusiast
 
 ---
 
